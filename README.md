@@ -1,4 +1,4 @@
-# HoloLens_ReseachMode
+# HoloLens_ResearchMode
 
 This project is to exploit the Microsoft HoloLens’s raw sensor data.
 
